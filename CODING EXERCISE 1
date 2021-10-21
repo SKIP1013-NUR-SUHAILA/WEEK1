@@ -1,0 +1,19 @@
+package myInfo;
+
+class Personal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("NAME : NUR SUHAILA BINTI YEOP");
+		System.out.println("MATRIX NUMBER : 288383");
+		System.out.println("COURSE : COMPUTER SCIENCE");
+		System.out.println();
+		System.out.println("FATHER'S NAME : SAREH IZHAM BIN SAREH HUSIN");
+		System.out.println("MOTHER'S NAME : NOOR SHIHA BINTI LAH");
+		System.out.println();
+		System.out.println("ADDRESS : 153,KAMPUNG KODIANG LAMA DALAM, 06100 KODIANG KEDAH.");
+	
+
+	}
+
+}
